@@ -66,10 +66,10 @@ const EditPrompt = () => {
   );
 };
 
-const page = () => {
-  <Suspense>
-    <EditPrompt />
-  </Suspense>;
-};
+// const Page = () => {
+//   <Suspense>
+//     <EditPrompt />
+//   </Suspense>;
+// };
 
-export default page;
+export default EditPrompt;
