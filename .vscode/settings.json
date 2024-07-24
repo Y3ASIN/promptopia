@@ -1,3 +1,5 @@
 {
-  "workbench.colorTheme": "Solarized Dark"
+  "workbench.colorTheme": "Dark Magic Tokyo",
+  "workbench.productIconTheme": "vscode-v1-icons",
+  "workbench.preferredDarkColorTheme": "Dark Magic"
 }
